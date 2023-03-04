@@ -1,3 +1,6 @@
+*Its test from mckienzie
+**Prints words in getchar
+*** manually
 #include<stdio.h>
 
 int input(char str[], int n)
